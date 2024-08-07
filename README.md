@@ -25,12 +25,3 @@ The directory structure of the TSV1K dataset is as follows,
         ├── ...
     ├── val
     ├── test
-
-## 2. The training and testing code will be updated soon.
-
-Visualization of predicted saliency maps of our and other compared approaches over two mobile video clips in MVS dataset.
-
-![visualization](https://github.com/wenshijie110/MVFormer/assets/54231028/6ade5405-8148-4bfa-a7f9-2d66fb35e6fd)
-
-# Contact 
-If you have any questions, please contact wenshijie@buaa.edu.cn
