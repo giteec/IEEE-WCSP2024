@@ -6,20 +6,25 @@
 ## 1. Download dataset
 The TSV1K dataset can be downloaded from BiaduPan: https://pan.baidu.com/s/1wcIGHwpDCZCOHfXlwgyMzw?pwd=1bfr. The file size is 164.3GB.
 
-The directory structure of the MVS dataset is as follows, 
+The directory structure of the TSV1K dataset is as follows, 
 ```
-└── MVS  
-    ├── Video-Number  
-        ├── fixation_maps
-        ├── fixations
-        ├── frames
-        ├── saliency_maps
-└── video2frame.py
-```
-To get each frame of a video, you need to run:
-```bash
-python video2frame.py 
-```
+└── TSV1K  
+    ├── train  
+        ├── 0003
+            ├── edges
+            ├── fixation
+            ├── images
+            ├── maps
+            ├── mask_detectron2
+        ├── 0010
+            ├── edges
+            ├── fixation
+            ├── images
+            ├── maps
+            ├── mask_detectron2
+        ├── ...
+    ├── val
+    ├── test
 
 ## 2. The training and testing code will be updated soon.
 
