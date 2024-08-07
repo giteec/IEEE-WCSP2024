@@ -1,5 +1,6 @@
 # Saliency Prediction of Traffic Surveillance Videos: A Benchmark and A Multi-task Approach
-![dataset](https://github.com/wenshijie110/MVFormer/assets/54231028/24281504-fb64-42d3-bda7-1c39b6fd1058)
+![dataset](https://github.com/giteec/TSV1K/blob/2136c44a9e8aa34b196834a7fc5f402827efce14/dataset.png)
+
 
 
 ## 1. Download dataset
