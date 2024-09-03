@@ -4,7 +4,7 @@
 
 
 ## 1. Download dataset
-The TSV1K dataset can be downloaded from BiaduPan: https://pan.baidu.com/s/1wcIGHwpDCZCOHfXlwgyMzw?pwd=1bfr. The file size is 164.3GB.
+The TSV1K dataset can be downloaded from BiaduPan:https://pan.baidu.com/s/1StOSnsdqN6K99VbaUvPyew?. The file size is 164.3GB.
 
 The directory structure of the TSV1K dataset is as follows, 
 ```
